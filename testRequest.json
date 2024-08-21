@@ -1,0 +1,13 @@
+{
+  "input":{
+    "text":"this is a test. maybe it will work now."
+  },
+  "voice":{
+    "languageCode":"en-US",
+    "name":"en-US-Studio-M",
+    "ssmlGender":"MALE"
+  },
+  "audioConfig":{
+    "audioEncoding":"MP3"
+  }
+}
